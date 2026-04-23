@@ -1,6 +1,6 @@
 // setTimeout 
 
-// setTimeout is a Higher order function the inside wrtten anonymous function is a call back funciton
+// setTimeout is a Higher order function the inside written anonymous function is a call back funciton
 console.log("first");
 setTimeout(()=>{
     console.log("second");
